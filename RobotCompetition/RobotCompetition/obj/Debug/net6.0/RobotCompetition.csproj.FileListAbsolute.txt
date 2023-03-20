@@ -1,0 +1,8 @@
+E:\Project\C# Project\Robot Competition\RobotCompetition\RobotCompetition\obj\Debug\net6.0\RobotCompetition.csproj.AssemblyReference.cache
+E:\Project\C# Project\Robot Competition\RobotCompetition\RobotCompetition\obj\Debug\net6.0\RobotCompetition.GeneratedMSBuildEditorConfig.editorconfig
+E:\Project\C# Project\Robot Competition\RobotCompetition\RobotCompetition\obj\Debug\net6.0\RobotCompetition.AssemblyInfoInputs.cache
+E:\Project\C# Project\Robot Competition\RobotCompetition\RobotCompetition\obj\Debug\net6.0\RobotCompetition.AssemblyInfo.cs
+E:\Project\C# Project\Robot Competition\RobotCompetition\RobotCompetition\obj\Debug\net6.0\RobotCompetition.csproj.CoreCompileInputs.cache
+E:\Project\C# Project\Robot Competition\RobotCompetition\RobotCompetition\obj\Debug\net6.0\RobotCompetition.MvcApplicationPartsAssemblyInfo.cache
+E:\Project\C# Project\Robot Competition\RobotCompetition\RobotCompetition\obj\Debug\net6.0\RobotCompetition.RazorAssemblyInfo.cache
+E:\Project\C# Project\Robot Competition\RobotCompetition\RobotCompetition\obj\Debug\net6.0\RobotCompetition.RazorAssemblyInfo.cs
